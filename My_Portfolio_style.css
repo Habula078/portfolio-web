@@ -44,7 +44,7 @@ img {
 }
 
 .navbar .nav-link.active {
-    color: var(--primary) !important;
+    color: var(--dark) !important;
 }
 .navbar .navbar-toggler{
     outline: none;
@@ -175,7 +175,7 @@ section {
 }
 
 .project img {
-    transition: all 0.4s ease;   
+    transition: all 0.3s ease;   
 }
 
 .project:hover .overlay{
@@ -186,22 +186,11 @@ section {
     transform: scale(1.1);
 }
 
-
-.pricing i {
-    font-size: 20px;
-    color: var(--primary);
-}
-
-.pricing ul li {
-    margin-top: 8px;
-}
-
 .social img {
     width: 125px;
     height: 125px;
     border-radius: 100px;
 }
-
 
 .social-icons {
     display: flex;
@@ -230,7 +219,7 @@ section {
 
 
 form input.form-control {
-    height: 56px;
+    height: 60px;
 }
 
 form .form-control {
@@ -241,8 +230,8 @@ form .form-control {
 
 
 .footer-top {
-    padding-top: 90px;
-    padding-bottom: 90px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     background-color: var(--dark);
 }
 
