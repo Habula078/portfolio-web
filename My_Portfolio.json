@@ -1,20 +1,7 @@
-[    
+
       {
         "name": "Сараа",
         "age": 29,
         "comment": "Сэтгэлд хүрэхүйц ажлилаж чадсан.",
         "img": "https://raw.githubusercontent.com/Habula078/portfolio-web/main/user1.jpg"
-      },
-      {
-        "name": "Болдоо",
-        "age": 21,
-        "comment": "Үйлчилгээ сонгон авахад их таатай байсан.",
-        "img": "https://raw.githubusercontent.com/Habula078/portfolio-web/main/user2.jpg"
-      },
-      {
-        "name": "Батаа",
-        "age": 19,
-        "comment": "Хурдан шуурхай ажилласан нь их таалагдсан.",
-        "img": "https://raw.githubusercontent.com/Habula078/portfolio-web/main/user.jpg"
       }
-]
