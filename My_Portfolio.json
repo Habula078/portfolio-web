@@ -1,20 +1,26 @@
 [    
       {
-        "name": "Сараа",
-        "age": 29,
-        "Comment": "Сэтгэлд хүрэхүйц ажлилаж чадсан.",
-        "img": "https://raw.githubusercontent.com/Habula078/portfolio-web/main/user1.jpg"
+        "socialid": "1",    
+        "id": "1",
+        "name": "FACEBOOK",
+        "username": "ITURUU"
       },
       {
-        "name": "Болдоо",
-        "age": 21,
-        "Comment": "Үйлчилгээ сонгон авахад их таатай байсан.",
-        "img": "https://raw.githubusercontent.com/Habula078/portfolio-web/main/user2.jpg"
+        "socialid": "1",    
+        "id": "2",
+        "name": "INSTAGRAM",
+        "username": "ENKHTUR78"
       },
       {
-        "name": "Батаа",
-        "age": 19,
-        "Comment": "Хурдан шуурхай ажилласан нь их таалагдсан.",
-        "img": "https://raw.githubusercontent.com/Habula078/portfolio-web/main/user.jpg"
+        "socialid": "1",    
+        "id": "3",
+        "name": "SNAPCHAT",
+        "username": "TURUU8899"
+      },
+      {
+        "socialid": "1",    
+        "id": "4",
+        "name": "TWITTER",
+        "username": "ITURUU_TWITTER"
       }
 ]  
