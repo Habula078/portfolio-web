@@ -1,0 +1,20 @@
+[    
+    {
+      "serviceid": "1",
+      "id": "1",
+      "service": "КОМИК, ЗУРАГ",
+      "Comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil perspiciatis illo asperiores perferendis."
+    },
+    {
+        "serviceid": "1",
+        "id": "2",
+        "service": "UX/UI ДИЗАЙН",
+        "Comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil perspiciatis illo asperiores perferendis."
+    },
+    {
+        "serviceid": "1",
+        "id": "3",
+        "service": "ПОСТЕР ДИЗАЙН",
+        "Comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil perspiciatis illo asperiores perferendis."
+    }
+]  
